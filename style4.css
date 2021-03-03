@@ -1,0 +1,14 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: #fff url(https://cdn.glitch.com/a2813135-3dba-4083-a8e3-2392d6265303%2Ftransportation%20background.jpg?v=1614202782266) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
