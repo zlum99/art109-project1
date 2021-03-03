@@ -1,0 +1,71 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: #fff url(https://cdn.glitch.com/a2813135-3dba-4083-a8e3-2392d6265303%2FLA.jpg?v=1614129429862) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.title{
+  text-align: center;
+  font-size: 30px;
+}
+
+.imagegroup {
+  width: 48%;
+  color: #fff;
+  display: inline-block;
+  padding-bottom: 30px;
+  text-align: center;
+  font-style: italic;
+  position: relative;
+}
+
+.gallery {
+  width: 85vw;
+  margin: 0 auto;
+}
+
+.leftside {
+  float: left;
+  left: -100px;
+  bottom: 0px;
+}
+
+.middle {
+  float: none;
+  bottom: 0px;
+  left: -400px;
+}
+
+.rightside {
+  float: right;
+  right: -60px;
+  bottom: 390px;
+}
+
+.text {
+  font-size: 50px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.welcome {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
