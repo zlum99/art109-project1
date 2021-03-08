@@ -1,11 +1,7 @@
 body {
   font-family: 'Oswald', sans-serif;
   margin: 2em;
-  background: url("https://cdn.glitch.com/a2813135-3dba-4083-a8e3-2392d6265303%2Fshop%20background.jpg?v=1615157296415") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-image: url('images/shop background.jpg');
 }
 
 h1 {

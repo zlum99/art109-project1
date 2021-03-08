@@ -1,12 +1,7 @@
 body {
   font-family: 'Oswald', sans-serif;
   margin: 2em;
-  background: #fff url(https://cdn.glitch.com/a2813135-3dba-4083-a8e3-2392d6265303%2Fattractions%20background%20.jpg?v=1614202177762) no-repeat center center fixed;
-  ;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-image: url('images/attractions background .jpg');
 }
 
 h1 {
